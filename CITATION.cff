@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this skill, please cite it using the metadata below."
+title: "critique-defense-copilot"
+abstract: >-
+  線上被惡意質疑、人身攻擊、帶風向、截圖喊告恐嚇時的冷靜應對教練。
+  A calm-response coach for handling online malicious criticism, personal
+  attacks, manufactured outrage, and screenshot-and-threaten-to-sue
+  intimidation. Helps users recognize manipulation playbooks, predict the
+  next move, triage what to answer, brake before posting regrettable replies,
+  and respond without escalating — defense-oriented, never producing attack
+  content aimed at real targets.
+type: software
+authors:
+  - given-names: Hsieh-Ting
+    family-names: Lin
+    alias: htlin222
+version: "0.1.0"
+date-released: "2026-06-09"
+license: MIT
+repository-code: "https://github.com/htlin222/critique-defense-copilot-skill"
+url: "https://github.com/htlin222/critique-defense-copilot-skill"
+keywords:
+  - skill
+  - claude-code
+  - agent-skill
+  - online-harassment
+  - cyberbullying
+  - de-escalation
+  - media-literacy
+  - taiwan
+  - traditional-chinese
